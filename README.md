@@ -7,4 +7,4 @@ Na aula do dia 17 de setembro, continuamos o nosso projeto para o Mundo Senai. F
 
 22/09 - Nesta aula criamos a variável que faz o player pular somente uma vez, voltando ao chão. Criamos a variável dos isGrounded, e criamos o void OnCollisionEnter2D (verifica se o pulo é verdadeiro e faz o player pular)  e OnCollisionExit2D (Faz o player pular somente uma vez). Criamos a Tag "Ground" e adicionamos ao chão, também fizemos a mudança de adicionar a câmera ao player, desse modo, quando o player anda agora a câmera o segue.
 
-24/09 - Na aula de hoje é para criarmos um mapa, com os diferentes cenários que estarão no nosso jogo.
+24/09 - Na aula de hoje é para criarmos um mapa, fiz o total de 3 cenários, um onde o personagem irá começar o jogo( o quarto dele), a sala de aula(onde ele vai achar as fases),  e a fase.
