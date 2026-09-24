@@ -6,3 +6,5 @@ Jogo de treinamento de versionamento de código
 Na aula do dia 17 de setembro, continuamos o nosso projeto para o Mundo Senai. Fizemos uma pasta e criamos um script sobre o player, adicionando o RigidBody2D, desse modo adicionando física ao player, também adicionamos um código para reconhecer o movimento horizontal, concedendo movimentação ao player. Após isso, adicionamos a colisão para o chão e o player. Adicionamos pulo ao player.
 
 22/09 - Nesta aula criamos a variável que faz o player pular somente uma vez, voltando ao chão. Criamos a variável dos isGrounded, e criamos o void OnCollisionEnter2D (verifica se o pulo é verdadeiro e faz o player pular)  e OnCollisionExit2D (Faz o player pular somente uma vez). Criamos a Tag "Ground" e adicionamos ao chão, também fizemos a mudança de adicionar a câmera ao player, desse modo, quando o player anda agora a câmera o segue.
+
+24/09 - Na aula de hoje é para criarmos um mapa, com os diferentes cenários que estarão no nosso jogo.
