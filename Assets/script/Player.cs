@@ -1,8 +1,9 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 10f;
     private Rigidbody2D rb;
     private bool isGrounded = false;
 
@@ -21,7 +22,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)//reconhece quando apertarem a tecla "espaço"
         {
-            rb.AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse);//Concede o impulso para o player
+            rb.AddForce(new Vector2(0f, 7f), ForceMode2D.Impulse);//Concede o impulso para o player
         }
 
 
@@ -30,7 +31,12 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = true;//Vai comparar parar ver se o jogador está pulando
+            isGrounded = true;//Vai reconhecer o pulo do player
+        }
+
+        if (collision.gameObject.CompareTag("Dano"))
+        {
+            SceneManager.LoadScene(0);
         }
     }
     private void OnCollisionExit2D(Collision2D collision)
