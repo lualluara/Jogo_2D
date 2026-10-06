@@ -13,3 +13,5 @@ Sala de aula: adicionei a porta, mesas dos alunos, mesa do professor;
 
 29/09 - Na aula de hoje, fiz algumas mudanças no cenário. Adicionei prateleiras no quarto, papel de parede no quarto. ocorreu mudanças na fase adicionamos espinhos para ser o dano e fizemos uma PreFab dele.
 PreFab: Uma pasta onde adiconamos um espinho, dessa forma, os códigos e configurações estarão pré-fabricados, facilitando a montar o cenário.
+
+06/10 - Hoje a projeto foi aprimorado, ocorreram mudanças na fase, de forma que os obstáculos e as plataformas mudaram de posição. As mudanças ocorreram por que o jogo não estava dinâmico o suficiente. Também foi implementado o ataque e o inimigo.
