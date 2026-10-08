@@ -22,4 +22,4 @@ Um projeto pode possuir uma cena para o menu principal, outras para cada fase e 
 
 Portanto, o SceneManager é uma ferramenta essencial para organizar e controlar o fluxo de um jogo desenvolvido na Unity. Seus recursos permitem realizar desde simples trocas de fases até sistemas mais complexos de carregamento assíncrono e gerenciamento de múltiplas cenas. Em projetos 2D, seu uso facilita a organização do jogo e permite separar diferentes partes do projeto de maneira mais eficiente, contribuindo para uma estrutura mais organizada e fácil de manter.
 
-*o que foi feito em aula*: Na aula de hoje, melhorei o chão e implementei uma mecânica do SceneManager.
+*o que foi feito em aula*: Na aula de hoje, melhorei o chão e implementei uma mecânica do SceneManager, esta mecânica é adicionar o botão iniciar e mudar a cena do menu para a fase 1
