@@ -25,3 +25,5 @@ Portanto, o SceneManager é uma ferramenta essencial para organizar e controlar 
 *o que foi feito em aula*: Na aula de hoje, melhorei o chão e implementei uma mecânica do SceneManager, esta mecânica é adicionar o botão iniciar e mudar a cena do menu para a fase 1.
 
 *15/10*- Hoje, programamos  botão de reset. Mudamos a cor dele, fizemos a programação e vimos sobre o GDD.
+
+*10/11*- Na aula de hoje, fizemos as telas de *Pause* e *Game Over*, fizemeos a programação que funcionasse a realizamos as ações, ao morrer a tela de Game Over aparece e para que pudéssemos reiniciar, programamos o botão. Ao pressionarmos a tecla *esc* a jogo pausa.
