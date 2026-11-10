@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
     public float speed = 10f;
     private Rigidbody2D rb;
     private bool isGrounded = false;
+    public MenuScene menu;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -36,7 +37,7 @@ public class Player : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Dano"))
         {
-            SceneManager.LoadScene(0);
+            menu.MostrarGameOver();
         }
     }
     private void OnCollisionExit2D(Collision2D collision)
