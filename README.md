@@ -27,3 +27,5 @@ Portanto, o SceneManager é uma ferramenta essencial para organizar e controlar 
 *15/10*- Hoje, programamos  botão de reset. Mudamos a cor dele, fizemos a programação e vimos sobre o GDD.
 
 *10/11*- Na aula de hoje, fizemos as telas de *Pause* e *Game Over*, fizemeos a programação que funcionasse a realizamos as ações, ao morrer a tela de Game Over aparece e para que pudéssemos reiniciar, programamos o botão. Ao pressionarmos a tecla *esc* a jogo pausa.
+
+*12/11*- Na aula de hoje, fizemos a tela de menu. Inicialmente, criamos uma imagem para ser a imagem do nosso menu, após adiciona-lá criamos o script para o botão *start* funcionasse corretamente e então completamos a tela de menu.
