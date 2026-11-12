@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 126b8b75a4f19b14c9880a9ac948989c
+guid: 2c9f54512b719ce4eb3c01a54d2ec6dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 532282208441007744
-    second: images (1)_0
+      213: -5097554696387383700
+    second: Escola em flor no recreio retro (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: images (1)_0
+      name: Escola em flor no recreio retro (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 447
-        height: 447
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08ef26239db036700800000000000000
-      internalID: 532282208441007744
+      spriteID: c6ea4baf209d149b0800000000000000
+      internalID: -5097554696387383700
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      images (1)_0: 532282208441007744
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
